@@ -59,7 +59,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <!-- <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p> -->
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fbootstrap-5-logo-icon&psig=AOvVaw0zoTTzwjmopGzYpHUQiBCv&ust=1687538320102000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi516Ko1_8CFQAAAAAdAAAAABAE" alt="bootstrap icon" width="40" height="40> </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fbootstrap-5-logo-icon&psig=AOvVaw0zoTTzwjmopGzYpHUQiBCv&ust=1687538320102000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi516Ko1_8CFQAAAAAdAAAAABAE" alt="bootstrap icon" width="40" height="40 /> </a>
     <!-- <h3 align="left">Support:</h3>
     <p><a href="https://www.buymeacoffee.com/ @harshit_saini12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" @harshit_saini12" /></a></p><br><br> -->
     
