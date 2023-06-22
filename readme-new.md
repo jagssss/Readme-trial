@@ -15,13 +15,18 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<span align="left">
+<span align="left" padding="20px">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
 </span>
 <span align="right">
   <img src="https://github.com/jagssss/Readme-trial/blob/main/Assets/walking%20gif%20code.gif" height=340/>
 </span>
-
+<br/>
+<br/>
+<div align="center">
+    <a href="https://www.linkedin.com/in/jagrit-saini/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D03AQE3heVYOoLRyw/profile-displayphoto-shrink_400_400/0/1670257843240?e=1691625600&v=beta&t=-0aiWtNhsqB_fqV8-7R6HP98GjUXWI0SU0pSkHGIzmg" height="300" /></a>
+    </div>
+    <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagssss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <br/>
 <br/>
@@ -66,5 +71,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&locale=en" alt="deveshagrawal1454" /></p>
 <br/>
+<div align="center">
 <a target="_blank"><img align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+</div>
 <br/>
