@@ -1,4 +1,6 @@
-
+<a target="_blank">
+    <img src="https://github.com/jagssss/Readme-trial/blob/main/Assets/space%20image.gif" width="100%" style="max-width:100%;">
+  </a>
 <h1 align="center">Hi 👋 I'm Jagrit</h1>
 <h1 align="center">  Btw you can call me Jagss</h1>
     <h3 align="center">A Perfectionist, A Web Dev Enthusiast and A excieted Learner too</h3>
@@ -13,10 +15,12 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<p align="left">
+<span align="left">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
-</p>
+</span>
+<span align="right">
+  <img src="https://github.com/jagssss/Readme-trial/blob/main/Assets/walking%20gif%20code.gif" height=340/>
+</span>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagssss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <br/>
